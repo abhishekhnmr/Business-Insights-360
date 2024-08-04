@@ -1,5 +1,8 @@
 # Business Insights 360 Dashboard
 
+# Interactive Dashboard Link: 
+https://app.powerbi.com/view?r=eyJrIjoiNjRjYzU0N2ItOWZiOS00NGU1LWIyMWUtZjA0ZWVlNWZmN2Y2IiwidCI6IjRmZjdhNjM3LWI1NDQtNDA1OS1iMDFlLTFkYjMwODg4ZDk3NyJ9
+
 # Project Overview:
 The Business Insights 360 dashboard is an interactive and comprehensive analytical tool designed to provide a holistic view of business performance. The project leverages advanced data visualization techniques and powerful data analytics to transform raw data into actionable insights. This dashboard is tailored to support strategic decision-making by presenting key metrics and trends in an intuitive and accessible format.
 
